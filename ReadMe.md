@@ -13,3 +13,14 @@ This application fetches and displays information about a superhero using the Ma
    ```bash
    git clone https://github.com/asaduh07/Super-Hero-Hunter.git
    cd your-repository
+
+###Features
+Superhero Details: Displayed at the top of the page, including the superhero's name, image, and description.
+
+Events: Displays a list of events related to the superhero.
+
+Series: Shows a list of series in which the superhero appears.
+
+Stories: Displays a list of stories featuring the superhero.
+
+Comics: Shows a list of comics in which the superhero is featured.
